@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container2 {
+  height: 80vh;
+  width: 40vw;
+  border-radius: 8px;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.button {
+  height: 30px;
+  border-radius: 4px;
+  border-width: 0px;
+  width: 80px;
+}
